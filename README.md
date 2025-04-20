@@ -1,31 +1,65 @@
 # 🌐 TechTropolis
 
-**TechTropolis** is a dynamic web development service platform offering modern, AI-integrated websites tailored for businesses and individuals. We craft digital experiences that blend design, performance, and intelligence.
+Welcome to **TechTropolis** — a modern web service platform that specializes in creating stunning, fast, and responsive websites tailored for individuals, startups, and businesses of all sizes.
+
+We don’t just build websites — **we build experiences.**
 
 ---
 
-## 🚀 Features
+## 🎨 Features
 
-- 🧠 **AI Chat Assistant** – Smart response system powered by AI to engage users in real-time.
-- 💼 **Business-Ready Templates** – Fast, responsive, and professional templates ready to deploy.
-- 📱 Fully **Responsive Design** – Looks great on all devices.
-- ⚙️ Built with **Next.js 13+** using App Router and Static Export.
-- 🎨 Sleek, minimal UI with modern components.
-- 🌍 Easy deployment to GitHub Pages / Vercel.
+- 💼 Custom website development (Business, Portfolio, E-commerce, More)
+- ⚡ Fast loading & performance-optimized
+- 📱 Fully responsive on all devices
+- 🌗 **Dark Mode / Light Mode toggle**
+- 🎯 SEO-ready structure
+- 🧩 Modular & clean code using **Next.js 13+ (App Router)**
 
 ---
 
 ## 💳 Pricing Plans
 
-| Plan     | Price (EGP) | Includes                                               |
-|----------|-------------|--------------------------------------------------------|
-| Starter  | 500         | 1-page static site, responsive layout, contact form   |
-| Standard | 1,000       | Up to 5 pages, custom design, AI chat integration     |
-| Premium  | 1,500+      | Full branding, e-commerce support, analytics, and SEO |
+| Plan      | Price (EGP) | Features                                                                 |
+|-----------|-------------|--------------------------------------------------------------------------|
+| 🟢 Starter   | 500         | 1-page responsive website, contact form                                  |
+| 🟡 Standard  | 1,000       | Up to 5 pages, animations, social integration                            |
+| 🔴 Premium   | 1,500+      | Custom design, multi-page, contact system, performance tweaks & branding |
 
-> Custom packages available upon request.
+💬 *Need something unique? Contact us for a custom plan.*
 
 ---
 
-## 📁 Project Structure
+## 🖼️ Preview
 
+> ⚠️ Demo images and site preview coming soon...
+
+![Website Preview](https://via.placeholder.com/1000x400.png?text=TechTropolis+Website+Preview)
+
+---
+
+## 📁 Tech Stack
+
+- **Framework**: Next.js 13+ (App Directory)
+- **Styling**: TailwindCSS
+- **Icons**: Lucide Icons
+- **Hosting**: Vercel / GitHub Pages
+
+---
+
+## 🛠️ How to Use Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/TechTropolis/techtropolis.git
+
+# Go into the folder
+cd techtropolis
+
+# Install dependencies
+npm install
+
+# Run dev server
+npm run dev
+
+# Build for production
+npm run build
